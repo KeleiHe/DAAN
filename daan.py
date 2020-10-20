@@ -16,7 +16,7 @@ from os import makedirs
 import shutil
 import torch.nn as nn
 import torch.optim as optim
-from dataset.WebCaricature import WebCaricature
+from dataset.WebCariA import WebCariA
 from dataloader import *
 from model.cross_domain_model.Attention_consistency_Model import AttentionConsisNet
 from model.cross_domain_model.Discriminator import AttentionDiscriminator2D, AttentionDiscriminator
