@@ -11,7 +11,7 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
 
-from dataset.WebCaricature import WebCaricature
+from dataset.WebCariA import WebCariA
 from dataloader import *
 from model.GAN.UGATIT import UGATIT
 from utils.gan import *
