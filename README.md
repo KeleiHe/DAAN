@@ -1,11 +1,8 @@
 # DAAN
 
-The Pytorch implementation of the DAAN method accompany our ECCV 2020 paper at 
+The Pytorch implementation of the DAAN method accompanies our ECCV 2020 paper at 
 
-https://arxiv.org/abs/2007.09344. 
-
-
-(Supplementary Material at https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530018-supp.pdf)
+https://link.springer.com/chapter/10.1007/978-3-030-58598-3_2
 
 The DAAN method provides an general framework for unsupervised domain adaptation of two domains with label, feature and attention-based consistencies.
 
